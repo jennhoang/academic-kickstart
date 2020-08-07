@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   title = "Intermediate R"
   url = ""
   certificate_url = "https://www.datacamp.com/statement-of-accomplishment/course/eae81f2a53348d9e644d3bde40636872c60a2ba9"
-  date_start = ""
+  date_start = "2020-02-08"
   date_end = "2020-02-08"
   description = ""
 
